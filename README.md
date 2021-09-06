@@ -1,2 +1,2 @@
 # Inventory-management
-This is the Inventory management devloped by python .
+This is the Inventory management system devloped by python .
